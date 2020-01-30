@@ -19,10 +19,10 @@ def greet_user_arg(name, lastname)
 # # msg = greet_user_arg('John', 'Lee')
 # # print(msg)
 
-# # find tiangle area
+## find tiangle area
 # # def triangle_area(height=0, base=0):
 # #     return height * base * 0.5
-
+## This is what I added
 # # print(triangle_area(4, 5))
 # def triangle_area(b, h):
 #     """returns the area of a triangle with base b and height h."""
